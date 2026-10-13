@@ -1,1 +1,2 @@
 # CONTRIBUTORS
+Saharsh Kappa
