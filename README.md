@@ -1,15 +1,9 @@
 # GitWorkshop
 
 ## 1) Fork this Repository 
-
-## 2) Clone the repository
-```
-git clone ### 1. Fork this repository
-```
 Click the **Fork** button at the top-right of this page.
 
-
-### 2. Clone your fork
+### 2) Clone your forked Repository
 
 Replace `YOUR-USERNAME` with your GitHub username and run:
 
