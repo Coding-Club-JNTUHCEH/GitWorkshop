@@ -9,7 +9,7 @@ Replace `YOUR-USERNAME` with your GitHub username and run:
 
 ```
 git clone https://github.com/YOUR-USERNAME/git-workshop.git
-cd git-workshop
+cd GitWorkshop
 ```
 
 ## 3) Add your names to CONTRIBUTORS.md
