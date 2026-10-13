@@ -3,6 +3,7 @@
 ## 1) Clone the repository
 ```
 git clone https://github.com/Coding-Club-JNTUHCEH/GitWorkshop.git
+cd GitWorkshop
 ```
 
 ## 2) Make a new branch and switch to it
@@ -19,4 +20,4 @@ git commit -m "commit message"
 git push origin <branch-name>
 ```
 
-## 5) Create a pull request for the changes you just pushed
+## 5) Create a pull request on github (google it or look at the ppt) for the changes you just pushed
