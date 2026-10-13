@@ -1,17 +1,30 @@
 # GitWorkshop
 
-## 1) Clone the repository
+## 1) Fork this Repository 
+
+## 2) Clone the repository
 ```
-git clone https://github.com/Coding-Club-JNTUHCEH/GitWorkshop.git
-cd GitWorkshop
+git clone ### 1. Fork this repository
+```
+Click the **Fork** button at the top-right of this page.
+
+
+### 2. Clone your fork
+
+Replace `YOUR-USERNAME` with your GitHub username and run:
+
+```
+git clone https://github.com/YOUR-USERNAME/git-workshop.git
+cd git-workshop
 ```
 
-## 2) Make a new branch and switch to it
-```
-git branch <branch-name>
-git switch <branch-name>
-```
 ## 3) Add your names to CONTRIBUTORS.md
+open it in a code editor
+
+or run
+```
+echo "Your Name" >> CONTRIBUTORS.md
+```
 
 ## 4) Add, Commit and Push your branch
 ```
